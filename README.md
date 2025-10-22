@@ -1,4 +1,4 @@
-# Firebase Studio
+# Skill_Planner
 
 This is a NextJS starter in Firebase Studio.
 
