@@ -1,8 +1,3 @@
 # Skill_Planner
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
-
-
 Live Demo --- [ https://skill-planner-l2fa.onrender.com ]
